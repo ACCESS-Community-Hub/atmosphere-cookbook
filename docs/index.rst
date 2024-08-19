@@ -11,8 +11,7 @@ We explain: a "recipe" here is an example an analysis of some atmospheric model 
 Each "recipe" comes in a self-contained and well-documented Jupyter notebook.
 All the recipes combined form a cookbook 📒!
 
-To access the data used in these recipes you need an account with the Australian-based `National Computational Infrastructure (NCI)`.
-
+To access the data used in these recipes you need an account with the Australian-based `National Computational Infrastructure (NCI) <https://nci.org.au>`_
 Happy cooking! 😉 🥙 🍱 🍲
 
 To get started have a look at the tutorials_ and then browse through the
@@ -20,7 +19,6 @@ available recipes_ to find something the better suits your 'taste' (i.e., your n
 
 .. _tutorials: tutorials.html
 .. _recipes: recipes.html
-.. _National Computational Infrastructure (NCI): https://nci.org.au
 
 .. toctree::
    :maxdepth: 1
