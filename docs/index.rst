@@ -5,7 +5,7 @@
 Atmospheric Cookbook
 ====================
 
-Welcome to the Atmospheric Cookbook!  An Atmospheric Cookbook 📔 of Recipes for analysing regional or global atmospheric model output. 👩🏽‍🍳 👨🏻‍🍳
+Welcome to the Atmospheric Cookbook!  This is an Atmospheric Cookbook 📔 of Recipes for analysing regional or global atmospheric model output. 👩🏽‍🍳 👨🏻‍🍳
 
 We explain: a "recipe" here is an example an analysis of some atmospheric model output or some atmosphere-related observational datasets.
 Each "recipe" comes in a self-contained and well-documented Jupyter notebook.
