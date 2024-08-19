@@ -24,11 +24,11 @@ Happy cooking! 😉 🥙 🍱 🍲
 
 
 Credits
--------
++++++++
 
 The structure and content of this repository draws inspiration from the
-`Consortium for Ocean-Sea Ice Modelling in Australia (COSIMA) <http://cosima.org.au/>`'s
-`Cookbook repository <https://github.com/COSIMA/cosima-recipes>` that holds recipes for
+`Consortium for Ocean-Sea Ice Modelling in Australia (COSIMA) <http://cosima.org.au/>`_'s
+`Cookbook repository <https://github.com/COSIMA/cosima-recipes>`_ that holds recipes for
 analysing ocean-sea ice model output.
 
 .. _tutorials: tutorials.html
