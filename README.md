@@ -40,3 +40,9 @@ Tutorials that get you started
 ### [Recipes](https://atmospheric-cookbook.readthedocs.io/en/latest/recipes.html)
 The main part of this cookbook: All the recipes! These are Jupyter notebooks for either simple or not-so-simple diagnostics and analyses. All notebooks are aimed to be self-contained and  well-documented and explained.
 If you can find a recipe that suits your purposes, then this is the best place to start.
+
+
+## Credits
+
+The structure and content of this repository draws inspiration from the [Consortium for Ocean-Sea Ice Modelling in Australia (COSIMA)](http://cosima.org.au/)'s [Cookbook repository](https://github.com/COSIMA/cosima-recipes) that holds recipes for analysing ocean-sea ice model output.
+
