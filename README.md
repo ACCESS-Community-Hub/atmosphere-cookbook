@@ -2,7 +2,7 @@
 <br/> <br/>
 
 
-<a href="https://cosima-recipes.readthedocs.io/en/latest">
+<a href="https://atmospheric-cookbook.readthedocs.io/en/latest/">
     <img alt="latest docs" src="https://img.shields.io/badge/docs-latest-blue.svg">
 </a>
 
@@ -30,12 +30,13 @@ Consider **contributing your recipe back to the repository**.
 We are always delighted to expand our cookbook with more recipes.
 If the process of contributing to the repository sounds a bit intimidating to you, rest assured that we will guide you and help you with submitting your contribution.
 
-To make a contribution just raise [an issue](https://github.com/COSIMA/cosima-recipes/issues) explaining briefly what the contribution you want to make is and we'll help out with the process!
-
+To make a contribution just raise [an issue](https://github.com/21centuryweather/atmospheric-cookbook/issues) explaining briefly what the contribution you want to make is and we'll help out with the process!
 
 ## Contents
 
+### [Tutorials](https://atmospheric-cookbook.readthedocs.io/en/latest/tutorials.html)
+Tutorials that get you started
 
-### [Recipes](https://cosima-recipes.readthedocs.io/en/latest/recipes.html)
+### [Recipes](https://atmospheric-cookbook.readthedocs.io/en/latest/recipes.html)
 The main part of this cookbook: All the recipes! These are Jupyter notebooks for either simple or not-so-simple diagnostics and analyses. All notebooks are aimed to be self-contained and  well-documented and explained.
 If you can find a recipe that suits your purposes, then this is the best place to start.

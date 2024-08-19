@@ -1,18 +1,17 @@
-.. COSIMA Recipes documentation master file, created by
-   sphinx-quickstart on Mon Apr  6 11:03:01 2020.
+.. Atmospheric Cookbook documentation master file.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-COSIMA Cookbook
-===============
+Atmospheric Cookbook
+====================
 
-Welcome to the COSIMA Cookbook! 
+Welcome to the Atmospheric Cookbook!  An Atmospheric Cookbook 📔 of Recipes for analysing regional or global atmospheric model output. 👩🏽‍🍳 👨🏻‍🍳
 
-This repository is a Cookbook of Recipes 👩🏽‍🍳 👨🏻‍🍳.
-
-We explain: a "recipe" here is an example an analysis of some ocean-sea ice model output or some ocean-related observational datasets.
+We explain: a "recipe" here is an example an analysis of some atmospheric model output or some atmosphere-related observational datasets.
 Each "recipe" comes in a self-contained and well-documented Jupyter notebook.
 All the recipes combined form a cookbook 📒!
+
+To access the data used in these recipes you need an account with the Australian-based [National Computational Infrastructure (NCI)](https://nci.org.au/).
 
 Happy cooking! 😉 🥙 🍱 🍲
 
@@ -30,8 +29,7 @@ available recipes_ to find something the better suits your 'taste' (i.e., your n
    tutorials
    recipes
    guidelines
-   contributing
-   GitHub Repository <https://github.com/cosima/cosima-recipes>
+   GitHub Repository <https://github.com/21centuryweather/atmospheric-cookbook>
 
 
 Search
