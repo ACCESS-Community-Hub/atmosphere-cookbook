@@ -29,5 +29,5 @@ jobs:
         sudo apt-get install -y pandoc
     - name: Ensure sphinx builds (warnings allowed)
       run: |
-        cp -r Recipes/ docs/
+        cp -r Tutorials/ docs/
         make -C docs html O=-n
