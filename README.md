@@ -1,5 +1,5 @@
 <div align="center">
- <img src="docs/assets/ACCESS_ATMOSPHERE_icon.png" height="300" display="block"/>   
+ <img src="docs/assets/ACCESS_ATMOSPHERE_icon.png" height="300" display="block">   
 </div>
 <br/> <br/>
 
@@ -8,7 +8,7 @@
     <img alt="latest docs" src="https://img.shields.io/badge/docs-latest-blue.svg">
 </a>
 
-# Atmospheric Cookbook
+# Atmosphere Cookbook
 
 An Atmospheric Cookbook 📔 of Recipes for analysing regional or global atmospheric model output. 👩🏽‍🍳 👨🏻‍🍳
 
