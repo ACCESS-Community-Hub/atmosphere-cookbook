@@ -1,5 +1,5 @@
 <div align="center">
- <img src="docs/assets/ACCESS_ATMOSPHERE_icon.png" height="300" display="block">   
+ <img src="docs/assets/ACCESS_ATMOSPHERE_icon.png" height="300">   
 </div>
 
 <a href="https://atmospheric-cookbook.readthedocs.io/en/latest/">
