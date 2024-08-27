@@ -1,4 +1,4 @@
-<img src="docs/assets/ACCESS_ATMOSPHERE_icon.png" width="600"/>
+<img src="docs/assets/ACCESS_ATMOSPHERE_icon.png"/>
 <br/> <br/>
 
 
