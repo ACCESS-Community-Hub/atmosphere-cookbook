@@ -1,5 +1,5 @@
 <div align="center">
- <img src="docs/assets/ACCESS_ATMOSPHERE_icon.png" height="300"/>   
+ <img src="docs/assets/ACCESS_ATMOSPHERE_icon.png" height="300" font-size="0"/>   
 </div>
 <br/> <br/>
 
