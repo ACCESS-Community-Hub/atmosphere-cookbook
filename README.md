@@ -1,4 +1,6 @@
-<img src="docs/assets/ACCESS_ATMOSPHERE_icon.png" height="300" display="block" margin-left="auto" margin-right="auto"/>
+<div style="display:flex; justify-content:center">
+ <img src="docs/assets/ACCESS_ATMOSPHERE_icon.png" height="300"/>   
+</div>
 <br/> <br/>
 
 
