@@ -1,4 +1,4 @@
-<img src="docs/assets/ACCESS_ATMOSPHERE_icon.png" height="300" margin-left="auto" margin-right="auto"/>
+<img src="docs/assets/ACCESS_ATMOSPHERE_icon.png" height="300" display="block" margin-left="auto" margin-right="auto"/>
 <br/> <br/>
 
 
