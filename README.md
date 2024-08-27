@@ -1,8 +1,6 @@
 <div align="center">
  <img src="docs/assets/ACCESS_ATMOSPHERE_icon.png" height="300" display="block">   
 </div>
-<br/> <br/>
-
 
 <a href="https://atmospheric-cookbook.readthedocs.io/en/latest/">
     <img alt="latest docs" src="https://img.shields.io/badge/docs-latest-blue.svg">
@@ -10,7 +8,7 @@
 
 # Atmosphere Cookbook
 
-An Atmospheric Cookbook 📔 of Recipes for analysing regional or global atmospheric model output. 👩🏽‍🍳 👨🏻‍🍳
+An Atmosphere Cookbook 📔 of Recipes for analysing regional or global atmospheric model output. 👩🏽‍🍳 👨🏻‍🍳
 
 We explain: a "recipe" here is an example an analysis of some atmospheric model output or some atmosphere-related observational datasets.
 Each "recipe" comes in a self-contained and well-documented Jupyter notebook.
