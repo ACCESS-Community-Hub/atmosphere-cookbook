@@ -8,9 +8,9 @@
 
 # Atmosphere Cookbook
 
-An Atmosphere Cookbook 📔 of Recipes for analysing regional or global atmospheric model output. 👩🏽‍🍳 👨🏻‍🍳
+An Atmosphere Cookbook 📔 of Recipes for analysing regional or global atmosphere model output. 👩🏽‍🍳 👨🏻‍🍳
 
-We explain: a "recipe" here is an example an analysis of some atmospheric model output or some atmosphere-related observational datasets.
+We explain: a "recipe" here is an example an analysis of some atmosphere model output or some atmosphere-related observational datasets.
 Each "recipe" comes in a self-contained and well-documented Jupyter notebook.
 All the recipes combined form a cookbook 📒!
 
