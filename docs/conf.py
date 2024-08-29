@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Atmospheric Cookbook'
+project = 'Atmosphere Cookbook'
 copyright = '2024, ARC Centre for the Weather of the 21st Century'
 author = '21centuryweather'
 
