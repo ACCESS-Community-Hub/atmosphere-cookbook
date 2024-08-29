@@ -30,7 +30,7 @@ Consider **contributing your recipe back to the repository**.
 We are always delighted to expand our cookbook with more recipes.
 If the process of contributing to the repository sounds a bit intimidating to you, rest assured that we will guide you and help you with submitting your contribution.
 
-To make a contribution just raise [an issue](https://github.com/21centuryweather/atmospheric-cookbook/issues) explaining briefly what the contribution you want to make is and we'll help out with the process!
+To make a contribution just raise [an issue](https://github.com/ACCESS-Community-Hub/atmosphere-cookbook/issues) explaining briefly what the contribution you want to make is and we'll help out with the process!
 
 ## Contents
 
