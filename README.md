@@ -2,7 +2,7 @@
  <img src="docs/assets/ACCESS_ATMOSPHERE_icon.png" height="300">   
 </div>
 
-<a href="https://atmospheric-cookbook.readthedocs.io/en/latest/">
+<a href="https://atmosphere-cookbook.readthedocs.io/en/latest/">
     <img alt="latest docs" src="https://img.shields.io/badge/docs-latest-blue.svg">
 </a>
 
