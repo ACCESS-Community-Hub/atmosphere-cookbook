@@ -1,16 +1,16 @@
-<img src="https://github.com/user-attachments/assets/07f70521-4481-49b8-9c1f-18d88a12ecb6" width="600"/>
-<br/> <br/>
-
+<div align="center">
+ <img src="docs/assets/ACCESS_ATMOSPHERE_icon.png" height="300">   
+</div>
 
 <a href="https://atmospheric-cookbook.readthedocs.io/en/latest/">
     <img alt="latest docs" src="https://img.shields.io/badge/docs-latest-blue.svg">
 </a>
 
-# Atmospheric Cookbook
+# Atmosphere Cookbook
 
-An Atmospheric Cookbook 📔 of Recipes for analysing regional or global atmospheric model output. 👩🏽‍🍳 👨🏻‍🍳
+An Atmosphere Cookbook 📔 of Recipes for analysing regional or global atmosphere model output. 👩🏽‍🍳 👨🏻‍🍳
 
-We explain: a "recipe" here is an example an analysis of some atmospheric model output or some atmosphere-related observational datasets.
+A "recipe" is an example of an analysis of some atmosphere model output or some atmosphere-related observational datasets.
 Each "recipe" comes in a self-contained and well-documented Jupyter notebook.
 All the recipes combined form a cookbook 📒!
 
@@ -35,11 +35,11 @@ To make a contribution just raise [an issue](https://github.com/21centuryweather
 ## Contents
 
 ### [Tutorials](https://atmospheric-cookbook.readthedocs.io/en/latest/tutorials.html)
-Tutorials that get you started
+Tutorials that get you started.
 
 ### [Recipes](https://atmospheric-cookbook.readthedocs.io/en/latest/recipes.html)
-The main part of this cookbook: All the recipes! These are Jupyter notebooks for either simple or not-so-simple diagnostics and analyses. All notebooks are aimed to be self-contained and  well-documented and explained.
-If you can find a recipe that suits your purposes, then this is the best place to start.
+The main part of this cookbook: All the recipes! These are Jupyter notebooks for either simple or not-so-simple diagnostics and analyses. All notebooks aim to be self-contained, well-documented and explained.
+If you can find a recipe that suits your purpose, then this is a great place to start.
 
 
 ## Credits
