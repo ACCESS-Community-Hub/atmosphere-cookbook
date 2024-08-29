@@ -20,7 +20,7 @@ To **get started**, clone this repository in your local space on one of the NCI 
 
 If you plan to use an ARE session, then remember to include the projects in the _Storage_ line: `gdata/hh5+gdata/xp65+gdata/ua8` as well as any of your own project you need access to. In _Module directories_, set `/g/data/hh5/public/modules` and in _Modules_ set `conda/analysis3`. Use a _Compute Size_ of `large` or greater.
 
-If you have never used the NCI see these [first steps instructions](https://access-hive.org.au/getting_started/first_steps/) and [getting started with ARE](https://access-hive.org.au/getting_started/are/).
+If you have never used the NCI see these [first steps instructions](https://access-hive.org.au/getting_started/) and [getting started with ARE](https://access-hive.org.au/getting_started/are/).
 
 ### Contributing
 
@@ -30,7 +30,7 @@ Consider **contributing your recipe back to the repository**.
 We are always delighted to expand our cookbook with more recipes.
 If the process of contributing to the repository sounds a bit intimidating to you, rest assured that we will guide you and help you with submitting your contribution.
 
-To make a contribution just raise [an issue](https://github.com/21centuryweather/atmospheric-cookbook/issues) explaining briefly what the contribution you want to make is and we'll help out with the process!
+To make a contribution just raise [an issue](https://github.com/ACCESS-Community-Hub/atmosphere-cookbook/issues) explaining briefly what the contribution you want to make is and we'll help out with the process!
 
 ## Contents
 
