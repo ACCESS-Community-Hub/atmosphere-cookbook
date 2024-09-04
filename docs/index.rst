@@ -33,7 +33,7 @@ Happy cooking! 😉 🥙 🍱 🍲
    tutorials
    recipes
    guidelines
-   GitHub Repository <https://github.com/21centuryweather/atmosphere-cookbook>
+   GitHub Repository <https://github.com/ACCESS-Community-Hub/atmosphere-cookbook>
 
 
 Search
