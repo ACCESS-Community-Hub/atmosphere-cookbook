@@ -36,12 +36,6 @@ Happy cooking! 😉 🥙 🍱 🍲
    GitHub Repository <https://github.com/ACCESS-Community-Hub/atmosphere-cookbook>
 
 
-Search
-+++++++
-
-* :ref:`search`
-
-
 Credits
 +++++++
 
@@ -49,3 +43,16 @@ The structure and content of this repository draws inspiration from the
 `Consortium for Ocean-Sea Ice Modelling in Australia (COSIMA) <http://cosima.org.au/>`_'s
 `Cookbook repository <https://github.com/COSIMA/cosima-recipes>`_ that holds recipes for
 analysing ocean-sea ice model output.
+
+Citation
+++++++++
+
+If you use a recipe from the Cookbook for your research or teaching, or have based your analysis on one of the recipes, we would be grateful if you could cite:
+
+.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.14503323.svg
+  :target: https://doi.org/10.5281/zenodo.14503323
+
+Search
++++++++
+
+* :ref:`search`
