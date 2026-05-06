@@ -36,7 +36,7 @@ Consider **contributing your recipe back to the repository**.
 We are always delighted to expand our cookbook with more recipes.
 If the process of contributing to the repository sounds a bit intimidating to you, rest assured that we will guide you and help you with submitting your contribution.
 
-To make a contribution just raise [an issue](https://github.com/ACCESS-Community-Hub/atmosphere-cookbook/issues) explaining briefly what the contribution you want to make is and we'll help out with the process!
+To make a contribution just raise [an issue](https://github.com/ACCESS-Community-Hub/atmosphere-cookbook/issues) explaining briefly what the contribution you want to make is and we'll help out with the process! The _Contributing_ section of the [Contributing to the Cookbook](https://cosima-recipes.readthedocs.io/en/latest/contributing.html) is a useful reference for getting started with the process.
 
 ## Contents
 
