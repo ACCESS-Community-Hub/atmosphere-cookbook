@@ -21,9 +21,9 @@ All the recipes combined form a cookbook 📒!
 
 To access the data used in these recipes you need an account with the Australian-based [National Computational Infrastructure (NCI)](https://nci.org.au/).
 
-To **get started**, clone this repository in your local space on one of the NCI HPC machines so you can have access to model output. You should then be able to run these recipes (i.e., example analyses) through an [Australian Research Environment (ARE)](https://are.nci.org.au/) JupyterLab session running python or via any other way you might want to run a Jupyter notebook on an NCI HPC machine. You need to join _xp65_, _gx60_ and any other relevant projects to run the recipes and access the data analysed.
+To **get started**, clone this GitHub repository in your local space on one of the NCI HPC machines so you can have access to model output. You should then be able to run these recipes (i.e., example analyses) through an [Australian Research Environment (ARE)](https://are.nci.org.au/) JupyterLab session running python or via any other way you might want to run a Jupyter notebook on an NCI HPC machine. You need to join _xp65_, _gx60_, _bs94_ and any other relevant projects to run the recipes and access the data analysed.
 
-If you plan to use an ARE session, then remember to include the projects in the _Storage_ line: `gdata/xp65+gdata/gx60` as well as any of your own project you need access to. 
+If you plan to use an ARE session, then remember to include the projects in the _Storage_ line: `gdata/xp65+gdata/gx60+gdata/bs94` as well as any of your own project you need access to. 
 In Module directories, set `/g/data/xp65/public/modules` and in _Modules_ set `conda/analysis3`. Use a Compute Size of `large` or greater.
 
 If you have never used the NCI see these [first steps instructions](https://access-hive.org.au/getting_started/) and [getting started with ARE](https://access-hive.org.au/getting_started/are/).
